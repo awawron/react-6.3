@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "name": "name",
+      "surname": "surname",
+      "email": "email@email.com",
+      "password": "password",
+      "bday": "2000-01-01",
+      "pic": ""
+    }
+  ]
+}
